@@ -19,6 +19,7 @@ All you need is to install Python on your system
 
 ## Installation:
 [How to install Python on Windows and Mac (2017)](https://www.youtube.com/watch?v=YYXdXT2l-Gg)
+
 [How to install Python in Ubuntu (2021)](https://www.youtube.com/watch?v=1Zgo8M9yUtM)
 
 ## Usage:
